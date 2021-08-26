@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e8a5160-8756-4dd5-a993-c0d58de142cd" name="Changes" comment="first version">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/projet1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet1/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet1/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet1/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet1/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet1/src/main/java/com/projet1/Projet1Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet1/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projet1/src/test/java/com/projet1/Projet1ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet1/src/test/java/com/projet1/Projet1ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet1/src/test/java/com/projet1/Projet1ApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +33,14 @@
       <option name="presentableId" value="Default" />
       <updated>1629976367128</updated>
     </task>
+    <task id="LOCAL-00001" summary="first version">
+      <created>1630007362485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630007362485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

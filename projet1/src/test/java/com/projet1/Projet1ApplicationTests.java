@@ -8,6 +8,7 @@ class Projet1ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		/* hello*/
 	}
 
 }
